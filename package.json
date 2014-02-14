@@ -1,0 +1,24 @@
+{
+  "name": "touch-and-go",
+  "version": "0.0.1",
+  "description": "Simple Directory Watcher",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "nbqx",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/nbqx/touch-and-go.git"
+  },
+  "homepage": "https://github.com/nbqx/touch-and-go",
+  "keywords": [
+    "watch",
+    "file"
+  ],
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "*",
+    "should": "*"
+  }
+}
